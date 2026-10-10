@@ -14,8 +14,8 @@ I'm particularly interested in Blue Team security, SOC operations, threat detect
 |---|---|
 | 🛡️ **Day job** | I'm currently an Operations Manger in the Fibre optic infrastructure industry with over 6 years in field experience with fault finding, splicing and testing |
 | 🐧 **Desktop** | Pop!_OS, Parrot OS, and Debian as daily drivers on hand-built desktops and laptops from Tuxedo Computers, System76, and MNT. Ubuntu on production servers, RHEL-family (Rocky, AlmaLinux, CentOS) at work. |
-| 🏗️ **Homelab** | pfSense + Suricata at the edge, an OpenSearch/Wazuh SIEM, UniFi networking, a dual-GPU inference box, SBCs everywhere, and as much repurposed hardware as practical. [Details below.](#-my-home-lab-stack) |
-| 🧠 **Cares about** | End-to-end encryption, zero trust, owning your infrastructure, right to repair, privacy rights, threat modeling, OSINT, and telecom security (SS7, IMSI catchers, Stingrays). |
+| 🏗️ **Homelab** | pfSense at the edge, Windows server 2022 for AD, Wazuh/sysmon for EDR, Wazuh on an Ubuntu box for SIEM, all the google to help |
+| 📚 **Books** | Applied Incident Response (Steve Anson)   Visual Threat Intelligence (Thomas Roccia)  Blue Team Handbook: Incident Response Edition (Don Murdoch)  Operator Hanbook (Netmux)  |
 
 - Building my own cybersecurity home lab using Windows Server and Active Directory to simulate an enterprise environment and working out how lateral movement takes place.
 - Getting hands-on experience with Splunk, Wazuh and Wireshark.
