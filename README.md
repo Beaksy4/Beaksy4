@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Matt 👋
 
-<!--
-**Beaksy4/Beaksy4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring Detection Analyst/Engineer based in Manchester!
 
-Here are some ideas to get you started:
+I currently hold CompTIA Network+, Security+ and close to finishing the CySa+ studies. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm particularly interested in Blue Team security, SOC operations, threat detection and incident response.
+
+
+
+### 🔍 Whoami
+
+| | |
+|---|---|
+| 🛡️ **Day job** | I'm currently an Operations Manger in the Fibre optic infrastructure industry with over 6 years in field experience with fault finding, splicing and testing |
+| 🐧 **Desktop** | Pop!_OS, Parrot OS, and Debian as daily drivers on hand-built desktops and laptops from Tuxedo Computers, System76, and MNT. Ubuntu on production servers, RHEL-family (Rocky, AlmaLinux, CentOS) at work. |
+| 🏗️ **Homelab** | pfSense + Suricata at the edge, an OpenSearch/Wazuh SIEM, UniFi networking, a dual-GPU inference box, SBCs everywhere, and as much repurposed hardware as practical. [Details below.](#-my-home-lab-stack) |
+| 🧠 **Cares about** | End-to-end encryption, zero trust, owning your infrastructure, right to repair, privacy rights, threat modeling, OSINT, and telecom security (SS7, IMSI catchers, Stingrays). |
+
+- Building my own cybersecurity home lab using Windows Server and Active Directory to simulate an enterprise environment and working out how lateral movement takes place.
+- Getting hands-on experience with Splunk, Wazuh and Wireshark.
+- Practising security investigations, log analysis and threat hunting.
+- Learning Python to help automate security tasks.
+- Developing my understanding of Microsoft Azure and cloud security.
+
+### 🛠️ Tools & Technologies
+
+**Security:** Splunk | Wazuh | Wireshark | Kali Linux | Sysmon
+
+**Networking & Systems:** Windows Server | Active Directory | Linux | pfSense | VirtualBox
+
+**Currently learning:** Python | KQL | Microsoft Sentinel | Azure Security
+
+### 📂 What you'll find here
+
+I'm using GitHub to document my learning, share home lab projects and build up a portfolio of practical cybersecurity work.
+
+I'll be posting things like lab setups, security investigations, detection queries and anything interesting I pick up along the way.
+
+### 🎯 My goal
+
+I'm looking to start my career in IT security, ideally within a SOC or Blue Team environment where I can keep learning and develop my skills.
+
+Always happy to connect with people in the industry, share ideas and learn from others!
